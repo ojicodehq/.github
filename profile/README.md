@@ -1,39 +1,34 @@
-# Ojicode
+<div align="center">
 
-**Développement web & mobile freelance · France**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/ojicode-dark-700.png">
+  <img alt="Ojicode" src="profile/assets/ojicode-light-700.png" width="280">
+</picture>
 
----
+### Applications métier sur mesure, web et mobile
 
-Ojicode, c'est une approche professionnelle du développement indépendant : process structurés, communication claire, code propre et maintenable.
+Pour les PME, les TPE et les indépendants.<br/>
+Forfait fixe, un seul interlocuteur, un code qui vous appartient.
 
-Derrière la marque : 17 ans d'expérience en informatique, une grosse expertise terrain en support IT et résolution de problèmes, aujourd'hui je mets tout cela au service du développement web et mobile.
+<a href="https://ojicode.fr"><img src="https://img.shields.io/badge/ojicode.fr-C4693D?style=for-the-badge&logo=safari&logoColor=white" alt="Site"></a>
+<a href="https://www.linkedin.com/company/ojicode/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/ojicodehq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:contact@ojicode.fr"><img src="https://img.shields.io/badge/Email-191816?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 
----
-
-### Services
-
-**Développement sur mesure** — Applications web & mobile, sites vitrines, outils métier.
-
-**Maintenance & support** — Amelioration de l'éxistant , corrections de bugs , mises à jour.
-
-**Reprise de projets** — Audit, refactoring, migration vers des technos modernes
-
----
-
-### Stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</div>
 
 ---
 
-### Contact
+**Ojicode** est la marque de Nicodème Cajuste, développeur freelance fort de 17 ans dans l'informatique. Du brief à la maintenance : conception, développement, déploiement et suivi d'applications web et mobiles taillées pour le métier de chaque client.
 
-📧 contact@ojicode.fr
-🌐 [ojicode.fr](https://ojicode.fr)
+### Ce que fait Ojicode
+
+- Applications métier sur mesure
+- Sites web
+- Applications mobiles (iOS et Android)
+- Reprise et modernisation d'outils existants
+
+### En savoir plus
+
+Toutes les réalisations et les détails sont sur **[ojicode.fr](https://ojicode.fr)**.
+Le profil du développeur : **[@Nicodeme-C](https://github.com/Nicodeme-C)**.
