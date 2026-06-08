@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/ojicode-dark-700.png">
-  <img alt="Ojicode" src="profile/assets/ojicode-light-700.png" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ojicode-dark-700.png">
+  <img alt="Ojicode" src="assets/ojicode-light-700.png" width="280">
 </picture>
 
 ### Applications métier sur mesure, web et mobile
